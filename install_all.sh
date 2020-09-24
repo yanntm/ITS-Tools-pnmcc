@@ -22,3 +22,7 @@ tar xzf oracle.tar.gz
 # now using embedded version of LTSmin
 # ./install_ltsmin.sh
 
+wget --progress=dot:mega https://yanntm.github.io/Spot-BinaryBuilds/ltlfilt
+chmod a+x ltlfilt
+
+
