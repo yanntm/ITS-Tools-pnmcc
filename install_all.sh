@@ -19,5 +19,6 @@ tar xzf oracle.tar.gz
 # yices page down Jun 18 : don't break builds we use z3
 # ./install_yices.sh
 
-./install_ltsmin.sh
+# now using embedded version of LTSmin
+# ./install_ltsmin.sh
 
